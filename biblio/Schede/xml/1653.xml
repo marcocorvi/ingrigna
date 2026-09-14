@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE scheda SYSTEM "scheda.dtd">
+<scheda>
+  <id>1653</id>
+  <nome>Terzo Pozzo sopra la Dolina con Arco</nome> 
+  <avvicinamento>
+  Si segue la Via Ganda che conduce dal Rifugio Bogani al Brioschi. Poco oltre
+  la Madonnina si devia a destra per circa 100m.
+  </avvicinamento>
+  <descrizione>
+  La grotta si apre con un bel ingresso a pozzo. Il pozzo, profondo 13m, è
+  chiuso alla base da detriti.
+  <descrizione>
+  <aria>
+  Non si avverte circolazione d'aria.
+  </aria>
+  <acqua>
+  La grotta si presenta asciutta ed è interessata solo da stillicidio.
+  </acqua>
+  <prosecuzione>
+  Non vi sono possibilità di prosecuzione.
+  </prosecuzione>
+  <armo>
+  Si usi un fix all’entrata. Occorre una corda da 15m.
+  </armo>
+  <biblio>
+  Bini Alfredo, Pellegrini Alberto: “Il carsismo del Moncodeno - Ricerche sugli aspetti del fenomeno carsico profondo nel Gruppo delle Grigne (Lombardia)” su “Geologia Insubrica”, Rivista di Scienze della Terra, volume 3, numero 2, 1998
+  Bini Alfredo, Cappa Giulio, Pellegrini Alberto: “Ricerche sugli aspetti del fenomeno carsico profondo nel gruppo delle Grigne (Lombardia): V° - Il carsismo nella zona Bregai – Val Laghetto (Circo di Moncodeno)”, in “Le Grotte d’Italia” n°4, VI (1976), pagg.5-72, t. I, Bologna, 1977
+  <biblio>
+</scheda>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<articolo>
+  <id>296</id>
+  <code>Sala-01</code>
+  <author>Sala A.</author>
+  <title>Il sentiero delle Grigne</title>
+  <year>2001</year>
+  <abstract>
+  Il libro, dedicato ad itinerari escursionistici paesaggistici
+  nelle Grigne, cita la presenza delle grotte, e in particolare
+  accenna alla Ghiacciaia del Moncodeno.
+  </abstract>
+  <grotte>
+  </grotte>
+</articolo>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<articolo>
+  <id>120</id>
+  <code>Chiesa-32</code>
+  <title>Grotte e voragini di Lombardia</title>
+  <year>1932</year>
+  <abstract>
+Il primo catasto delle cavita` della regione Lombardia 
+comprende anche 8 grotte del gruppo delle Grigne.
+Vengono descritte le principali (Fiumelatte, Ghiacciaia 
+del Moncodeno, Grotta del Cainallo, Grotta SUCAI, Ferrera
+di Mandello). 
+Della grotta del Cainallo e` presente il rilievo, pianta
+e sezione.
+Noto di biologia: Polydesmus longicornis nella Grotta del
+Cainallo e nella Ferrera; Batysciola (Boldoria) bergamasca
+nella Ferrera.
+  </abstract>
+  <grotte>
+32 33
+  </grotte>
+</articolo>

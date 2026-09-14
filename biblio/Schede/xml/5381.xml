@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE scheda SYSTEM "scheda.dtd">
+<scheda>
+  <id>5381</id>
+  <nome>Grotta nel Canale di Cima Palone</nome>
+  <autore>A. Maconi</autore>
+  <avvicinamento>
+La cavità si apre a quota xxxx, al margine di un canale che da cima
+Palone settentrionale scende verso le Foppe.
+  </avvicinamento>
+  <descrizione>
+Un cunicolo d’accesso in discesa dà accesso ad un vano ascendente
+intasato di blocchi di frana.
+  </descrizione>
+</scheda>
+

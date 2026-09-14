@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<articolo>
+  <id>888</id>
+  <code>Bisaccia-25</code>
+  <author>Bisaccia A.</author>
+  <title>Abisso Buzio</title>
+  <year>2025</year>
+  <abstract>
+Resoconto di una uscita bagnata all'abisso Buzio.
+  </abstract>
+  <pub>La Grigna al Contrario 42, Ott. 2025 2</pub>
+  <pdf>LaGrignaAlContrario/LGaC-42ba.pdf</pdf>
+  <cave>5935</cave>
+  <survey></survey>
+</articolo>

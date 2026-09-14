@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<articolo>
+  <id>270</id>
+  <code>Maconi-08d</code>
+  <author>Maconi A.</author>
+  <title>La nascita del SIC (sistema informativo carsico)</title>
+  <year>2008</year>
+  <abstract>
+Si descrive un sistema informativo dedicato al carsismo, creato all'interno
+di un GIS. Il sistema raccoglie informazioni georeferenziate, che, raccolte
+in un database, sono consultabili attraverso il GIS. Una delle aree oggetto
+di questo sistema e` la Grigna.
+  </abstract>
+  <grotte>
+  </grotte>
+</articolo>

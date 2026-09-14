@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<articolo>
+  <id>5</id>
+  <code>MerazziM-01a</code>
+  <author>Merazzi M.</author>
+  <title>Le grotte nella Valle dei Mulini</title>
+  <year>2001</year>
+  <abstract>
+Descrizione e dati catastali di nove cavita`
+rinvenute nella val dei Mulini:
+5116, 5124, 5118, 5119, 5120, 5121, 5122,
+5123, Zucco della Colla.
+  </abstract>
+  <grotte>
+5116 5117 5124 5118 5119 5120 5121 5122 5123
+  </grotte>
+</articolo>

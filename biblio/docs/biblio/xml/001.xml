@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<articolo>
+  <id>1</id>
+  <code>Marieni-00</code>
+  <author>Marieni A.</author>
+  <title>Grigna e grotte></title>
+  <year>2000</year>
+  <abstract>
+Nella prima parte sintetizza la storia esplorativa del massiccio,
+quindi narra del primo campo estivo dello SCE in Grigna
+durante il quale l'attenzione e` stata rivolta soprattutto 
+all'area del Moncodeno.
+La conclusione e` ottimistica: anche se non
+si sono rinvenuti risultati di rilievo, si e` trattato di un
+primo approccio con l'area e i risultati non tarderanno a 
+venire ...
+  </abstract>
+  <grotte>
+TODO
+  </grotte>
+</articolo>

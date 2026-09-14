@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<articolo>
+  <id>100</id>
+  <title>Grotta Il Tigre</title>
+  <year>1984</year>
+  <code>Maggi-84a</code>
+  <abstract>
+Descrizione di una punta all'abisso da -230 a -275
+(chiude in frana ma c'e` una finestra).
+Descrizione della grotta.
+  </abstract>
+  <grotte>
+28
+  </grotte>
+</articolo>

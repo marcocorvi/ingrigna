@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<articolo>
+  <id>64</id>
+  <title>Grotte e abissi di Lombardia</title>
+  <year>1986</year>
+  <abstract>
+Per diverse grotte riporta l'itinerario di accesso, la
+descrizione dell'ingresso, la storia esplorativa, la
+descrizione della cavita`, ed eventualmente altre note.
+- Fiume Latte: pianta e sezione
+- Marons Glaces (-557): pianta sezione scheda d'armo
+- Il Tigre (-275): sezione scheda d'armo
+- Abisso delle Spade (-157): sezione e scheda d'armo
+- Abisso ai margini dell'alto Bregai (-192): sezione e scheda d'armo
+- Abisso di Val Laghetto (-126): sezione
+- Abisso Trentinaglia (-270) pianta sezione scheda d'armo
+Riporta inoltre altre grotte in Grignetta e zona bassa della Grigna: Capanna Rosalba, 
+Ferrera, Pendoliva e Cascina Sagomet
+  </abstract>
+  <grotte>
+19 20 28 30 32
+  </grotte>
+</articolo>

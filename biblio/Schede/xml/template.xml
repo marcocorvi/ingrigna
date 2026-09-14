@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE scheda SYSTEM "scheda.dtd">
+<scheda>
+  <id></id>
+  <nome></nome>
+  <autore>Maconi A.</autore>
+  <data>2026</data>
+  <avvicinamento>
+  </avvicinamento>
+  <descrizione>
+  </descrizione>
+  <aria>
+  </aria>
+  <acqua>
+  </acqua>
+  <prosecuzione>
+  </prosecuzione>
+  <revisione>
+  </revisione>
+  <note>
+  </note>
+  <armo>
+  </armo>
+  <temperatura>
+  </temperatura>
+  <geo>
+  </geo>
+  <minerali>
+  </minerali>
+  <archeo>
+  </archeo>
+  <bio>
+  </bio>
+  <tecnica>
+  </tecnica>
+</scheda>

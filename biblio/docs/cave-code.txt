@@ -1,0 +1,1611 @@
+#=========================== BEGIN
+=========================== 1500
+  1501 1501 Grotta di Fiumelatte (45 81 132 126 136 64 172 61 261 273 293 345 408 409 502 746 757 846)
+  1502 1502 Grotta La Ferrera (162 132 131 136 64 207 249 262 273 846)
+  1503 1503 Grotta Sucai (234 581)
+  1504 1504 Grotta di Laorca (96)
+  1505 1505 Grotta del Cainallo (96 132 131 83 136 120 181 262 846)
+  1506 1506 Giazzera del Moncodeno (B-118 96 133 176 273 772)
+  1507 1507 Buco della Vacca - Pozzo di Prada (96)
+  1508 1508 Pozzo dei Pizzi di Parlasco 
+  1509 1509 Grotta Guzzi (30 96 287)
+  1510 1510 Grotta di San Nicolao (96 348)
+  1511 1511 Grotta della Capanna Monza (B-109 96 129 262) 
+  1512 1512 Grotta alla Porta di Prada (96)
+  1513 1513 Cavernetta sotto la Vetta della Grigna Settentrionale (B-5 96)
+  1514 1514 Cavernetta del Grumellone (96)
+  1515 1515 Tana della Piancaformia (B-35 96)
+  1516 1516 Grotta Grande 
+  1517 1517 Grotta Scura
+  1518 1518 Grotta Rozza
+  1519 1519 Grotta di Paroeul bassa (96)
+  1520 1520 Grotta di Paroeul alta (96)
+  1521 1521 Cavernetta delle Pecore (96)
+  1522 1522 Cavernetta del Cimone (96)
+  1523 1523 Grotta di quota 2230 della Piancaformia (B-35 96)
+  1524 1524 Grottone dello Zucchetto (96)
+  1525 1525 Grottone con Finestra - Grottone con Porta e Finestra (96)
+  1526 1526 Buca Ferrari (B-4 96)
+  1527 1527 Abisso della Piancaformia (B-6 33 96 132 131)
+  1528 1528 Cantina del Rifugio Brioschi (B-3 96)
+  1529 1529 Pozzo a Sud della Capanna Monza (B-108 96 129)
+  1530 1530 Pozzo con porta e dolina in media Val Laghetto (B-104 44 96)
+  1531 1531 Buco presso Quota 2230 della Piancaformia
+  1532 1532 Fossa di 28m nel Bregai Basso Occidentale (B-110 96 129 262)
+  1533 1533 Pozzo di quota 1987 (B-77 751)
+  1534 1534 Pozzo delle Tacole alla Bocchetta di Releccio (96)
+  1535 1535 Buco della Brioschi
+  1536 1536 Grotta di Ceresa
+  1537 1537 Crotto dei Darden
+  1538 1538 Grotta delle Tacole alla Bocchetta di Val Cassina (96)
+  1539 1539 Caverna dei Piani delle Groppe (96 132)
+  1540 1540 Grotta dei Piani delle Groppe (96)
+  1541 1541 Grotta del Canalone al Pertus (96 190)
+  1542 1542 Grotta di quota 1620
+  1543 1543 Grotta dei Colonghei
+  1544 1544 Grotta della Madonnina (96)
+  1545 1545 Grotta di Val Carnegia
+  1546 1546 Grotta di Costalta
+  1547 1547 Grotta di Venuspolo
+  1548 1548 Grotta dello Zuccone (670)
+  1549 1549 Grottone dell'Alta Val Meria
+  1550 1550 Cantina della Rosalba (96 177 190 64 273)
+  1551 1551 Grotta della Dolina (96 190)
+  1552 1552 Grande pozzo del Pertus (96 190)
+  1553 1553 Fessura del Pertus (190)
+  1554 1554 Pozzo Piccolo del Pertus
+  1555 1555 Grotta alta del Pertus (190)
+  1556 1556 Grotta bassa del Pertus (96 190)
+  1557 1557 Pozzo al Colle Valsecchi (96 132)
+  1558 1558 Ghiacciaia della Cresta Segantini
+  1559 1559 Pozzetto dei Colonghei
+  1560 1560 Crepaccio del Pertus (96 190)
+  1561 1561 Buco del Pertus
+  1562 1562 Pozzetto del Pertus
+  1563 1563 Grotta di q. 368 sopra Abbadia (96)
+  1564 1564 Prima Grotta di Cul (96)
+  1565 1565 Seconda Grotta di Cul
+  1566 1566 Terza Grotta di Cul
+  1567 1567 Grotta di Val Navello (96)
+  1568 1568 Canoua del Monte Croce (96)
+  1569 1569 Abisso di Val Cassina (268 273 279 337)
+  1570 1570 Grotta Rossa sopra il Ponte di Folla (96)
+  1571 1571 Ferriera del Sileggio 
+  1572 1572 Grotta di Piscen
+  1573 1573 Grotta del Corno Buco (96)
+  1574 1574 Cantina della Bietti (96)
+# 1575 1575 NUMERO IN BIANCO
+  1576 1576 Grotta con tre Inghiottitoi (96)
+  1577 1577 Abisso Apaz! (B-115+ 129 67 86 273 345)
+  1578 1578 Crotto dei Darden in Val di Lori
+  1579 1579 Forra nel Conglomerato (96)
+  1580 1580 Pozzo dei Mughi (B-90 129)
+  1581 1581 Abisso Giordano Dell'Amore (B-70 129 97 262 269 334)
+  1582 1582 Voragine di oltre 20m al termine di Val Laghetto (B-73 129 97)
+  1583 1583 Voragine di m15 nell'alta Val Laghetto (B-102 97)
+  1584 1584 Crepaccio di m35 nel Bregai Medio (B-102 129)
+#           Pozzetto presso la Via Ganda a m25 dalla 1589 
+  1585 1585 Taculera o Büs di Tacol del Zapel (132 131 59 46)
+  1586 1586 Voragine di Oltre m 40 presso l'Ometto del Bregai (129 262 269 273 290 328 404)
+  1587 1587 Pozzo di 11m con Imbocco Franoso (B-90 97)
+  1588 1588 Cunicolo sotto il Pozzo dei Mughi - Buco della Marmorta (B-90 24)
+  1589 1589 Pozzo sopra il Pozzo dei Mughi [1580 Lo] (B-89 97)
+  1590 1590 Pozzo con arco sulla Via Ganda (B-87 97)
+  1591 1591 Pozzo di m 24 ad Ovest della 1590 (B-86 129 576)
+  1592 1592 Dolina con Laghetto ghiacciato (B-69 97 199 443 491)
+  1593 1593 Crepaccio con conglomerato in media Val Laghetto (B-110 129 199)
+  1594 1594 Pozzetto presso la Via Ganda a M 25 dalla 1589 LO (B-88 129)
+  1595 1595 Pozzo della Dolina con Arco (B-94 97)
+  1596 1596 Dolina con fessura a neve (B-111 129 370)
+  1597 1597 Pozzo superiore dei Mughi (B-88 129)
+  1598 1598 Doppio pozzo di m23 (B-108 129 262)
+  1599 1599 Pozzo a neve in media Val Laghetto (B-112 97)
+================================= 1600
+  1600 1600 Abisso di Val Laghetto (B-113 38 97 84 64 339)
+  1601 1601 Pozzo a neve di oltre 10m in media Val Laghetto (B-112 97)
+  1602 1602 Primo pozzo sopra la dolina con arco (B-89 97)
+  1603 1603 Dolina a Otto (B-94 97)
+  1604 1604 (B-74 97)
+  1605 1605 (B-74 129 97 262)
+  1606 1606 Crepaccio inferiore in media Val Laghetto (370)
+  1607 1607 Crepaccio superiore in media Val Laghetto (B-98 129 97 443 491)
+  1608 1608 Pozzo di oltre m 16 sotto il Larice - Fossa di 5m (B-94 129)
+  1609 1609 Fossa di 5m sotto il Larice (B-94 129)
+  1610 1610 Pozzo Gemellare ad Ovest del Larice (B-94 129)
+  1611 1611 (132)
+  1612 1612 (132)
+  1613 1613 Riparo sopra il Pino
+  1614 1614 Pozzetto di 9m nel Medio Bregai (B-97 129)
+  1615 1615 Pozzo Skandaloso (B-90 38 129) 
+  1616 1616 Pozzo a fessura di m20 nel Medio Bregai (B-108)
+  1617 1617 Pozzo gemellare basso del Bregai Medio (B-110 129)
+  1618 1618 Pozzo di quota 1930 nel Medio Bregai (B-108 129)
+  1619 1619 Pozzo di quota 1935 nel Medio Bregai (B-109 129)
+  1620 1620 Pozzo a neve di quota 1955 (B-97 129)
+  1621 1621 Pozzo gemellare a neve di quota 1958 (B-104 129 370)
+  1622 1622 Pozzo di m 26 nel Bregai Medio (B-95 129 262)
+  1623 1623 Doppio pozzo del Bregai Medio (B-97 129)
+  1624 1624 Pozzetto di quota 1970 (B-97 129)
+  1625 1625 Doppio pozzo del Bregai Medio (B-97 129)
+  1626 1626 Pozzo a neve di quota 1980 (B-95 129 262)
+  1627 1627 Pozzo a neve di m20 (B-96 129 262)
+  1628 1628 Pozzo di quota 2005 nel Medio Bregai (B-97 129)
+  1629 1629 Pozzo di oltre m11 a SE della Lo 1630 (B-95 129)
+  1630 1630 Pozzo gemellare di quota 1990 (B-95 130 129 97)
+  1631 1631 Voragine di 71m nel Medio Bregai (B-103+ 129 116 273)
+  1632 1632 Cavità a camino con tre ingressi (B-100 129)
+  1633 1633 Pozzo della Scala (B-100 129)
+  1634 1634 Cunicolo sotto l'Ometto del Bregai (370)
+  1635 1635 Pozzo dimenticato (B-100 97)
+  1636 1636 Grotta sotto la Placca (B-100 97)
+  1637 1637 Pozzetto sotto la parete (B-99 97)
+  1638 1638 Pozzetto sotto la 1616 (B-108 97)
+  1639 1639 Grotticella nel Canalone (B-100 97)
+  1640 1640 Abisso nel Bregai Medio - Frigobox (B-107 112)
+  1641 1641 (B-72 97)
+  1642 1642 Doppio pozzo con frane e neve (B-72 97)
+  1643 1643 Pozzetto a Elle (B-99 97)
+  1644 1644 Pozzo con due ingressi circolari (B-99 97)
+  1645 1645 Pozzo a Triangolo (B-99 97)
+  1646 1646 Pozzo sul Margine dell'Alto Bregai (B-97 97)
+  1647 1647 Pozzo a Fessura nel Bregai Medio (370)
+  1648 1648 Abisso delle Spade (B-91 64 273 459 489 524 555 558 576 587 858)
+  1649 1649 Pozzo con Balausta (B-86 97)
+  1650 1650 Abisso sul Margine dell'Alto Bregai (B-93 97 64 199 254 273 442 443 491 492)
+  1651 1651 Grotticella sopra il Pozzo dei Mughi 1580 Lo (B-87 97)
+  1652 1652 Secondo Pozzo sopra la Dolina con Arco (B-88 97)
+  1653 1653 Terzo Pozzo sopra la Dolina con Arco (B-88 97)
+  1654 1654 (B-94 97)
+  1655 1655 Pozzo dai Tre ingressi (B-96 97)
+  1656 1656 Pozzo sopra la Lo 1653 (B-99 97)
+  1657 1657 Pozzetto con meandro presso la 1603 (B-72 97)
+  1658 1658 Pozzo sopra la 1644 (B-72 97)
+  1659 1659 Grotta Aperta (B-96 97)
+  1660 1660 (B-88 97)
+  1661 1661 Abisso Speleo Salmonato (B-89 97 269 273 290)
+  1662 1662 (B-68 97)
+  1663 1663 (B-68 97)
+  1664 1664 Pozzo del Silenzio (B-71 97)
+  1665 1665 Pozzo a Triangolo (B-72 97)
+  1666 1666 Pozzo presso la Lo 1606 (B-104 97)
+  1667 1667 (B-72 97)
+  1668 1668 (B-74 97)
+  1669 1669 (B-73 97)
+  1670 1670 (B-96 97)
+  1671 1671 Ghiacciaia della Capanna Monza (B-112 97)
+  1672 1672 Pozzo a fianco Ghiacciaia della Capanna Monza (B-112 97)
+  1673 1673 (B-106 97)
+  1674 1674 Grotta con meandro in Bregai Medio (B-101 97)
+  1675 1675 Grotta a due ingressi presso le Foppe (B-114 97)
+  1676 1676 (B-73 97)
+  1677 1677 (B-92)
+  1678 1678 (B-92)
+  1679 1679 Grotta a 2 ingressi di fianco alla Guzzi (B-29)
+  1680 1680 Pozzo sotto la Guzzi (B-29)
+  1681 1681 (B-32)
+  1682 1682 (B-65)
+  1683 1683 (B-68)
+  1684 1684 (B-69)
+  1685 1685 (B-69)
+  1686 1686 Grotta Traforo (B-35)
+  1687 1687 (B-35)
+  1688 1688 (B-36)
+  1689 1689 Pozzo Triplo (B-60)
+  1690 1690 (B-60)
+  1691 1691 (B-60)
+  1692 1692 (B-61)
+  1693 1693 (B-60)
+  1694 1694 (B-60)
+  1695 1695 (B-65)
+  1696 1696 (B-60)
+  1697 1697 Abisso senza Nome (B-61)
+  1698 1698 (B-29)
+  1699 1699 (B-29)
+================================= 1700
+  1700 1700 Doppio Pozzo sulla Cresta della Dolina Grande (B-29)
+  1701 1701 La Piombera
+  1702 1702 Grotta del Morto (109)
+  1703 1703 Grotta della Cima di Enghen 
+  1704 1704 Pozzetto della Traversata Alta
+  1705 1705 (182)
+# 1706 1706 NUMERO IN BIANCO
+  1707 1707 Grotta con Pozzo al Canalone di Prada
+  1708 1708 (182)
+  1709 5084 Grotta della Costa di Rosee
+#           Grotta di Costa Saetta (194)
+#           Grotta presso la Canoua di Monte Croce
+  1710 1710 Grotticella alla Bocchetta di Valverde
+  1711 1711 Grotticella Inferiore del Zapel
+  1712 1712 Grotticella Superiore del Zapel
+  1713 1713 Grotta sotto i Molini di Esino
+  1714 1714 Grotta nella Parete di San Martino
+  1715 1715 (84)
+  1716 1716 (84)
+  1717 1717 Cunicolo Superiore del Zapell
+  1718 1718 Grotta sopra il Tabernacolo (182)
+  1719 1719 (B-30)
+  1720 1720 Doppio Pozzo con arco (B-30)
+  1721 1721 (B-30 370)
+  1722 1722 (B-30)
+  1723 1723 (B-30)
+  1724 1724 (B-30 370)
+  1725 1725 (B-64)
+  1726 1726
+  1727 1727 (B-26)
+  1728 1728 Doppio Pozzo al Margine dell'Uvala Grande (B-26)
+  1729 1729 Pozzo al Passo Est dell'Uvala Grande (B-26)
+  1730 1730 Pozzo a Due Archi al Passo Est dell'Uvala Grande (B-26)
+  1731 1731 (B-26)
+  1732 1732 (B-21)
+  1733 1733 Grotta del Branzino (B-23)
+  1734 1734 (B-28)
+  1735 1735 (B-27)
+  1736 1736 (B-28)
+  1737 1737 (B-20)
+  1738 1738 Abisso Capitano Paff (110 111 94 46 61 255 273 709)
+  1739 1739 Grotta delle Condotte Freatiche (B-32 751)
+  1740 1740 (B-28)
+  1741 1741 Pozzo Stretto (B-31)
+  1742 1742 (B-32)
+  1743 1743 Pozzo sul Sentiero per la Capanna Monza (B-111)
+  1744 1744 Grotta presso il Passo di Val Cugnoletta (B-77)
+  1745 1745 Pozzo presso il Passo di Val Cugnoletta (B-106)
+  1746 1746 (B-106 114)
+  1747 1747 Grotta sul Fianco Nord della Foppa di Mezzo (B-105 284)
+  1748 1748 (B-80)
+  1749 1749 (B-80)
+  1750 1750 Pozzo dei Tricotteri (B-84)
+  1751 1751 (B-85)
+  1752 1752 (B-81)
+  1753 1753 Pozzo Franoso (B-81)
+  1754 1754 Pozzo della Frattura Grande (B-81)
+  1755 1755 (B-77)
+  1756 1756 (B-77)
+  1757 1757 (B-78)
+  1758 1758 (B-76)
+  1759 1759 Pozzo con Meandri (B-78)
+  1760 1760 Pozzo con Arco (B-76)
+  1761 1761 (B-76)
+  1762 1762 Pozzo con Arco (B-76)
+  1763 1763 (B-78)
+  1764 1764 (B-78)
+  1765 1765 (B-82)
+  1766 1766 Pozzo della Valle Laterale (B-85)
+  1767 1767 Pozzo sull'orlo della scarpata dell'altopiano (B-84)
+  1768 1768 (B-46)
+  1769 1769 (B-68)
+  1770 1770 Nightmare (B-59+ 114)
+  1771 1771 Pozzo del Mugo - Katunga (B-92+ B-106 51)
+  1772 1772 (B-84)
+  1773 1773 Pozzo Doppio (B-85)
+  1774 1774 (B-58)
+  1775 1775 Abisso Poltergeist (B-67+ 54 201 273 345)
+  1776 1776 (B-58)
+  1777 1777 (B-62)
+  1778 1778 Arco sull'angolo sopra la 1775 (B-62)
+  1779 1779 (B-62)
+  1780 1780 (B-62)
+  1781 1781 (B-64)
+  1782 1782 Pozzo Grande (B-63)
+  1783 1783 (B-64)
+  1784 1784 (B-63)
+  1785 1785 (B-63)
+  1786 1786 (B-65)
+  1787 1787 (B-61)
+  1788 1788 (B-63)
+  1789 1789 Pozzo Stretto (B-61)
+  1790 1790 (B-52)
+  1791 1791 (B-52)
+  1792 1792 Grotta a Due ingressi  (B-52)
+  1793 1793 Pozzo a Elle (B-51)
+  1794 1794 (B-51)
+  1795 1795 (B-54)
+  1796 1796 (B-50)
+  1797 1797 (B-50)
+  1798 1798 (B-50)
+  1799 1799 (B-53)
+================================= 1800
+  1800 1800 (B-53)
+  1801 1801 (B-52)
+  1802 1802 (B-49)
+  1803 1803 Pozzo Grande (B-57 114)
+  1804 1804 Pozzo Grande con più ingressi (B-51)
+  1805 1805 (B-84)
+  1806 1806 Grotta dell'F2 o dei Cristalli o dell'Albertino (B-38)
+  1807 1807 (B-38)
+  1808 1808 (B-52)
+  1809 1809 Abisso dei Maron Glaces (B-48+ 82 58 98 99 77 141 64 273)
+  1810 1810 (B-46)
+  1811 1811 (B-53)
+  1812 1812 (B-44 279)
+  1813 1813 (B-44)
+  1814 1814 (B-44)
+  1815 1815 (B-18 59)
+  1816 1816 (B-16)
+  1817 1817 (B-17 279)
+  1818 1818 Pozzo Stretto (B-44)
+  1819 1819 (B-44)
+  1820 1820 (B-13 279 753)
+  1821 1821 Abisso Gambaresa (B-28 112 279)
+  1822 1822 (B-12)
+  1823 1823 (B-17 370)
+  1824 1824 Stella di Ghiaccio - Ice Star (B-18 38)
+  1825 1825 Pozzo Richard Ginori (B-25)
+  1826 1826 (B-25)
+  1827 1827 (B-25)
+  1828 1828 (B-25)
+  1829 1829 (B-25)
+  1830 1830 (B-24)
+  1831 1831 (B-24)
+  1832 1832 (B-27)
+  1833 1833 (B-24)
+  1834 1834 (B-24)
+  1835 1835 (B-27)
+  1836 1836 Grotta sopra la Croce (B-41)
+  1837 1837 Pozzo Passante (B-39)
+  1838 1838 (B-39)
+  1839 1839 Le Bambine Crescono (44 113 59 86 71 273)
+  1840 1840 (B-41)
+  1841 1841 (B-41)
+  1842 1842 Grotta del Pifferaio (B-18 59 487)
+  1843 1843 (B-41)
+  1844 1844 Pozzo Merendero (B-8)
+  1845 1845 (B-39)
+  1846 1846 (B-8)
+  1847 1847 (B-66)
+  1848 1848 Ghiaccio Bollente (279)
+  1849 1849 (B-33)
+  1850 1850 (B-34)
+  1851 1851 (B-34)
+  1852 1852 (B-21)
+  1853 1853 (B-21)
+  1854 1854 (B-45)
+  1855 1855 (B-46)
+  1856 1856 (B-49)
+  1857 1857 (B-54 279)
+  1858 1858 (B-47)
+  1859 1859 (B-20)
+  1860 1860 Fagol Hause (B-42 279) 
+  1861 1861 (B-45)
+  1862 1862 Basta e Avanza (279)
+  1863 1863 (B-45)
+  1864 1864
+  1865 1865 (B-43)
+  1866 1866 (B-43)
+  1867 1867 Abisso Viakal (279 338)
+  1868 1868 Abisso Il Tigre (B-42+ 100 64 78 273 302)
+  1869 1869 (B-9)
+  1870 1870 (B-9 38)
+  1871 1871 (B-31)
+  1872 1872 Pozzo sulla cresta del Palone Settentrionale (B-118)
+  1873 1873 Riparo delle Ortiche (B-118)
+  1874 1874 Grotta che non ci stava in carta (B-114 89)
+  1875 1875 Grotta del Gras de la Giazera - Calchera (B-117 138 44)
+  1876 1876
+  1877 1877 (B-33)
+  1878 1878 (B-4) Collega con 1513
+  1879 1879 (B-2)
+  1880 1880 Pozzo sotto la Bocchetta di Nevaio (B-1)
+  1881 1881 (B-1)
+  1882 1882 (B-5)
+  1883 1883 (B-5)
+  1884 1884 (B-5)
+  1885 1885 (B-5)
+  1886 1886 (B-21)
+  1887 1887i Infermi nel Ghiaccio (B-54 673 775 824)
+  1888 1888 (B-55)
+  1889 1889 (B-55)
+  1890 1890 (B-55)
+  1891 1891 (B-56)
+  1892 1892 (B-55)
+  1893 1893 (B-55)
+  1894 1894 (B-56)
+  1895 1895 (B-61)
+  1896 1896 (B-65)
+  1897 1897 (B-65)
+  1898 1898 (B-1)
+  1899 1899 Grotta Bugs Bunny (B-16) 
+================================= 1900
+  1900 1900 (B-2)
+  1901 1901 (B-11)
+  1902 1902 (B-11)
+  1903 1903 (B-11)
+  1904 1904 Inferno di Ghiaccio (B-27 670 775 824)
+  1905 1905
+  1906 1906 (B-21)
+  1907 1907
+  1908 1908 (B-22)
+  1909 1909 (B-22)
+  1910 1910 (B-22)
+  1911 1911 (B-22)
+  1912 1912 (B-4)
+  1913 1913 (B-3)
+  1914 1914 (B-4)
+  1915 1915 (B-11)
+  1916 1916 Holiday on Ice (B-14 34)
+  1917 1917 Vecchi Ricordi (B-10 36 1973)
+  1918 1918 (B-15)
+  1919 1919 (B-10)
+  1920 1920 (B-10)
+  1921 1921 (B-13)
+  1922 1922 (B-13)
+  1923 1923 (B-13)
+  1924 1924 (B-13)
+  1925 1925 (B-16)
+  1926 1926 (B-16)
+  1927 1927 (B-15)
+  1928 1928 (B-4)
+  1929 1929 (B-105)
+  1930 1930 (B-80)
+  1931 1931 (B-82)
+  1932 1932 (B-105)
+  1933 1933 (B-82)
+  1934 1934 (B-14)
+  1935 1935 (B-8)
+  1936 1936 W Le Donne (101 104 55 105 85 65 107 57 151 46 61 209 266 273 604 622 723)
+  1937 1937 (B-49)
+  1938 1938 (B-53)
+  1939 1939 (B-47 753) Adrenalinic
+  1940 1940 (B-47)
+  1941 1941 (B-47)
+  1942 1942 (B-46 279)
+  1943 1943 (B-38)
+  1944 1944 (B-14)
+  1945 1945 Grotta A.I.A.A. (B-47 4)
+  1946 1946 (4)
+  1947 1947 Abisso Prudenza Sempre (B-43 4 273 331)
+  1948 1948 (B-6)
+  1949 1949 Abisso Rolling Stones (B-7 59)
+  1950 1950 (B-39)
+  1951 1951 (B-56)
+  1952 1952 (B-40)
+  1953 1953 (B-15)
+  1954 1954 (B-40)
+  1955 1955 (B-40)
+  1956 1956 (B-40)
+  1957 1957
+  1958 1958 (B-36)
+  1959 1959 (B-31)
+  1960 1960 (B-31)
+  1961 1961 (B-33)
+  1962 1962 (B-33)
+  1963 1963 (B-83)
+  1964 1964 (B-83 753)
+  1965 1965 (B-83)
+  1965 1965B - 1965bis (112)
+  1966 1966 Traforo di Piancaformia (B-31)
+  1967 1967 Pozzo nel Dito (B-32 682 775 824 858))
+  1968 1968 (B-6)
+  1969 1969
+  1970 1970 (B-57)
+  1971 1971 (B-56)
+  1972 1972
+  1973 1973
+  1974 1974 (B-66)
+  1975 1975
+  1976 1976 (B-85)
+  1977 1977 (B-105 284)
+  1978 1978 (B-3)
+  1979 1979 (B-66)
+  1980 1980 (B-66)
+  1981 1981 (B-57 370)
+  1982 1982
+  1983 1983 (370)
+  1984 1984 (B-20)
+  1985 1985
+  1986 1986 (B-104)
+# 1987 1987 NUMERO IN BIANCO
+  1988 1988
+  1989 1989
+  1990 1990 (B-38)
+  1991 1991 Cani e Porci (38)
+  1992 1992 (B-57 753)
+  1993 1993
+  1994 1994
+  1995 1995 (B-19)
+================================= 2000
+  2550 2550 Abisso sotto la Capanna Rosalba (61)
+# 2268 2268 Grotta prima del Melgone [NO]
+================================= 5000
+  5000 5000 Crott de Pendoliva (182 64)
+  5001 5001 Grotta Presso Cascina Sagomet (182 64)
+  5002 5002 Pozzetto sopra Cascina Sagomet (182)
+  5003 5003 Grotta in Localita' Cimei (182)
+  5004 5004 Grotta Seconda in Località Puin (182)
+  5005 5005 Grotta e Ripari della Corna di Mort (182)
+  5006 5006 Boeucc de la Margarita (182)
+  5007 5007 Antro Primo accanto a San Giovanni (182)
+  5008 5008 Grotta Seconda accanto a San Giovanni (182)
+  5009 5009 Grotta presso la Trattoria (182)
+  5010 5010 (182)
+  5011 5011 Risorgente tra Olcio e Lierna
+  5012 5012 Fessurone della Cermenati - Grotta di Val Naone (180 182)
+  5013 5013 Grotta del Formaggee (182)
+  5014 5014 Grotta del Partigiano (182)
+  5015 5015 (182) Grotta Prima in Località Puin
+  5016 5016 (182) Grotta Terza e Quarta in Località Puin
+  5017 5017 (182)
+  5018 5018 (182)
+  5019 5019 (182)
+  5020 5020 (182)
+  5021 5021 (182)
+  5022 5022 Abisso Fatelodavoi P1 (87 109 149 46 61 273)
+  5023 5023 Porto Marmo (66)
+  5024 5024 Abisso Lyra (66)
+  5025 5025 Cassiopea
+  5026 5026 Tana dello Scorpione
+  5027 5027 Grotta di quota 1770 sotto Cresta Cermenati (348)
+  5028 5028 Diaclasi di quota 1770 sotto Cresta Cermenati (348)
+  5029 5029 Frattura F2 - Frattura della Valle dei Mulini (590)
+  5030 5030 Grotta del Pallone - Ferrera di Valdevilla (179 207 273 711)
+  5031 5031 Abisso Paolo Trentinaglia (65 69 70 102 57 64 68 61 273)
+#           Abisso presso la Porta di Prada
+  5032 5032 Duplice Buco (197)
+  5033 5033 Antro Gigante (197)
+  5034 5034 Buco Doppio (197)
+  5035 5035 Grotta del Fico 1 (197)
+  5036 5036 Grotta del Fico 2 (197)
+  5037 5037 Grotta sotto la Teleferica (197)
+  5038 5038 Grotta sopra la Fontana (197)
+  5039 5039 Traforo del Pernacchiometro (174)
+  5040 5040 Abisso Orione (91 65 49 57 88 94 46 61 269 273 336)
+  5041 5041 Pozzo del Maratoneta (189)
+  5042 5042 Pozzo del Tornante (180 183)
+  5043 5043 Grotta del Muro (180 183)
+  5044 5044 Grotta dei Rovi (180 183)
+  5045 5045 Grotta nel Bosco (180 183)
+  5046 5046 Gamma 1 (190)
+  5047 5047 Gamma 7 (190)
+  5048 5048 Boec del Lines (190)
+  5049 5049 Gamma 6 (190)
+  5050 5050 Gamma 8 
+  5051 5051 Grotta sul Sentiero per il Rosalba
+  5052 5052 Mare di Sogni (190)
+  5053 5053 Pozzo Mike (190)
+  5054 5054 Frattura nella Valletta (180 183)
+  5055 5055 Grotta di quota 1830 (180 183)
+  5056 5056 Grotta Cermenaglia (180 183)
+  5057 5057 Pozzo Secondo sulla Cresta di Mogafieno (180 183)
+  5058 5058 Pozzo Primo sulla Cresta di Mogafieno (180)
+  5059 5059 Frattura seconda sul Sentiero (180)
+  5060 5060 Frattura prima sul Sentiero
+  5061 5061 Abisso Action Velue (114 86 46)
+  5062 5062 Mamalia (48 46 273 332 576)
+  5063 5063 Tiempo al Tiempo (114)
+  5064 5064 Abisso Maestro Splinter (117 273)
+  5065 5065 
+  5066 5066 Falsa Grotta delle Tacole
+  5067 5067
+  5068 5068
+  5069 5069
+  5070 5070
+  5071 5071 Grotta della Vipera 
+  5072 5072 Pozzo con Tre Entrate 
+  5073 5073
+  5074 5074 Pozzo sul Cecilia (192)
+  5075 5075 Buco in Strato (B-54)
+  5076 5076 Pozzetto sotto la 1929 (B-114 195)
+  5077 5077 Abisso Ololyuhqui (B-116+ 200 273)
+  5078 5078 Grotta a Doppio Ingresso (B-58)
+  5079 5079 I Ching (B-37+ 44 273 351)
+  5079 5079 Il Mostro (198)
+  5080 5080 Abisso Cambronne (B-111+ 116)
+  5081 5081 (B-19)
+  5082 5082 Frattura in Val Meria
+  5083 5083 Frattura del Baitello
+  5085 5085 Grotta del Paiolo
+  5086 5086 Grotta I del Parolo
+  5087 5087 Spaccatura sul Monte Parolo - Grotta II del Parolo
+  5088 5088 Pozzo di q. 1860 (193)
+  5089 5089 Buco del Corridoio
+  5090 5090 Fessura nel Pozzetto
+  5091 5091 Pozzo Braccio di Ferro (272)
+  5092 5092 Fessura sopra Braccio di Ferro (272)
+  5093 5093 Grotta C7 (589)
+  5094 5094 Grotta C6 (589)
+  5095 5095 Grotta C5 (589)
+  5096 5096 Grotta C4 - Cranio di Pietra (589)
+  5097 5097 Grotta C3 (589)
+  5098 5098 Grotta dei Vivi (589 857)
+  5099 5099 Pozzo Resinelli (188)
+================================= 5100
+  5100 5100
+  5101 5101 (38)
+  5102 5102 Premiere Fois o Preparazione H (B-75+ 107 108 111 94 61 273)
+  5103 5103 Pozzo del Vecchio Scarpone
+  5104 5104 (18 670)
+  5105 5105 (4)
+  5106 5106 (4)
+  5107 5107 (4)
+  5108 5108 (B-3)
+  5109 5109 (B-111)
+  5110 5110 L'Amara Euchessina (B-42+ 51)
+  5111 5111 Lord Kelvin (B-79+ 51)
+  5113 5113 Buco presso la Spaccatura di Paolo
+  5112 5112 Spaccatura di Paolo (B-79+ 51)
+  5114 5114 Buco nella Foppa Occidentale (B-79+ 51)
+  5115 5115 
+  5116 5116 Acqualatte (5 746)
+  5117 5117 Carlo 1 o grotta sul sentiero per lo Zucco della Colla (5)
+  5118 5118 Grotta prima dello Zucco della Colla (5)
+  5119 5119 Grotta seconda dello Zucco della Colla (5)
+  5120 5120 Grotta terza dello Zucco della Colla (5)
+  5121 5121 Grotta quarta dello Zucco della Colla (5)
+  5122 5122 Grotta 5 Zucco della Colla (5)
+  5123 5123 Grotta 6 Zucco della Colla (5)
+  5124 5124 Carlo II o Grotta sul Sentiero in Valle dei Molini (5)
+  5125 G006 Grotta Calolden (188)
+  5126 5126 Grotta del Ghirosauro
+  5127 5127 Millenium Bus
+  5128 5128 Pozzo Esprite 21
+  5129 5129 Grotta a Nord del Buco Doppio
+  5130 5130 Pozzo in Frattura con Due Ingressi
+  5131 5131 Buco Doppio
+  5132 5132 Pozzo Sopra il Labirinto Franoso
+  5133 5133 Labirinto Franoso
+  5134 5134 Buco Sotto il Labirinto Franoso
+  5135 5135 Grotticella con Pozzo
+  5136 5136 Buco del Muschio
+  5137 5137 La Fessura
+  5138 5138 Grotticella con Due Ingressi
+  5139 5139 Cunicolo in Frattura
+  5140 5140 Grotta Quindicesima del Zuc del Cant del Brug
+  5141 5141 Pozzo Pandora
+  5142 5142 Grotta Sotto la Discarica
+  5143 5143 Pozzo Presso la Casa
+  5144 5144 Grotta di Costa Riale
+  5145 F010 Frattura del Bacino - Pozzo in Val Meria (7)
+  5146 5146 Abisso Euro (24) 
+  5147 5147 Grotta degli Orsi - Grotta del Curlo (413 654)
+  5148 5148 Buco sotto la Parete - Tana di Lontra (198 290)
+  5149 5149 Grotta Ghè l' Giazz (198)
+  5150 5150 Essecorta (24 284 273)
+  5151 5151 Il Buffer (24 273)
+  5152 5152 Grotta in Frattura (198)
+  5153 5153 Antro dell'Ortica (198 558)
+  5154 5154 Grotta Franosa (198)
+  5155 C031 Buco della Sera (198)
+  5156 5156 Pozzetto presso la 5103 - Pozzetto vicino Vecchio Scarpone (198 395)
+  5157 5157 Grotta del Punto G (198)
+  5158 5158 Il Meandrino (198)
+  5159 5159 Maxi Conoide (198 576)
+  5160 5160 Pozzo Smoking (198)
+  5161 5161 Pingu (28 269 273 315)
+  5162 5162 Abisso dei Coltellini (269 273 286 323 351)
+  5163 5163 Kinder Brioschi e i Cinque Minerali (28 269 284 273 315)
+  5164 5164 Abisso Haspirobox (9 273 329)
+  5165 5165 Pozzo Folletto (10)
+  5166 5166 Abisso Furgoncini (9)
+  5167 5167 Antica Erboristeria (9 288 351)
+  5168 5168 Pozzo Sangue di Becco (10)
+  5169 5169
+  5170 5170 Canyon delle Meraviglie
+  5171 5171 Abisso dei Meganoidi
+  5172 5172 Pozzo dei Curnunecc (191)
+  5173 F011 Frattura Presso il Passo del Gatto (191)
+  5174 5174 (370 395)
+  5175 5175 Pozzetto sotto il Bosco 
+  5176 5176 Grotta W Le Arrampicate (35)
+  5177 5177 Grotticella della Tana (35)
+  5178 5178 Grotta del Sagittario (188)
+  5179 5179 Grotta dei Piedi Freddi (30)
+  5180 5180 Grotta sotto il Ponte (30)
+  5181 5181 Grotta n. 3 sotto la ex-statale 36 (24)
+#           Grotta sotto il Monumento
+  5182 5182 Grotticella lungo il Sentiero
+  5183 5183 Pozzo Placenta (24)
+  5184 5184 Grotta presso Kinder (24)
+  5185 5185 Il Meandrone (18)
+  5186 5186 Meandrobox (18 673)
+  5187 5187 Pozzo Volata (18)
+  5188 5188 Graspeggia (18)
+  5189 5189 Pozzo sotto Graspeggia (18)
+  5190 5190 Pozzo Air Bag (18)
+  5191 5191 Pozzo a SSE della Bocchetta di Piancaformia 
+  5192 5192 Pozzetto di q.1735 m - Pozzetto del Cant (584)
+  5193 5193 Abisso Enea (38 269 273 333)
+  5194 5194 Pozzo del Masso (30)
+  5195 5195 Grotta sotto Add to Zip (30)
+  5196 5196 Add to Zip
+  5197 5197 Grotticella Caprina (30)
+  5198 5198 Pozzetto in Frattura (30)
+  5199 5199 Grotticella dei Roditori (30)
+================================= 5200
+  5200 5200 P30 con Tre Ingressi
+  5201 5201 Chocolat (30)
+  5202 5202 Grotta Strasciadel (30)
+  5203 5203 Prima Cavità sopra le Lavine (30)
+  5204 5204 Pozzo un Manzo e si Passa - Seconda Cavità sopra le Lavine (30)
+  5205 5205 Terza Cavità sopra le Lavine (30)
+  5206 5206 Sandalo Ribelle - Abisso nella Valle dei Molini(268 273 335 400)
+  5207 5207 Grotta presso Sandalo Ribelle
+  5208 5208 Grotta delle Slavine 
+  5209 5209 Buco del Pilastro 
+  5210 5210 P4 
+  5211 5211 Pozzo nella Valle di Prada
+  5212 5212 Grotta prima nel Canalone a fianco alla Taculera
+  5213 5213 Grotta seconda nel Canalone a fianco alla Taculera
+  5214 5214 Grotta terza nel Canalone a fianco alla Taculera
+  5215 5215 Grotta dietro l'Armo (268)
+  5216 5216 Caverna Leda - C8 (589)
+  5217 5217 Frattura Stretta a Fianco alla Selletta
+  5218 5218 Buco nel Dente
+  5219 5219 Spaccatura sopra la Foppa
+  5220 5220 Grotta Fredda di Parol (584)
+  5221 5221 Il Fratturone - Grotta SC2 (584)
+  5222 5222 Grotta SC3 - Scudo (584)
+  5223 5223 Grotta alla Testata di un Canalone
+  5224 5224 Pozzo nel Pratone
+  5225 5225 Grotta Visione nella Nebbia
+  5226 5226 Fessura delle Placche Viscide
+  5227 5227 Grotta dello Zaino Nocivo
+  5228 5228 Grotta sul Ciglio del Canalone (268)
+  5229 5229 Pozzo della Tormenta di Neve
+  5230 5230 Grotta del Debris Flow
+  5231 5231 Frattura Mc Donald's
+  5232 5232 Frattura con Due Ingressi - 1° Ingresso
+  5232 5232 Frattura con Due Ingressi - 2° Ingresso
+  5233 5233 Pozzo Gran Mandorlato
+  5234 G039 Grotta Prima nel Canalone (191)
+  5235 X007 Grotta seconda nel Canalone
+  5236 5236 Grotta a SSE della Bocchetta del Guzzi - San Culamo (24)
+  5237 5237 Ariazzone
+  5238 5238 Nelson Mandello (273 330)
+  5239 5239 Buco Quadro
+  5240 5240 Nicchia Bustina Furba (30)
+  5241 5241 Grotta del Bue Muschiato (30 286)
+  5242 5242 Topino e le Giostre (28 269 273 326 403)
+  5243 5243 Grotta sopra la 5149 - Grotticella della Rabbata (30)
+  5244 5244 Cavernetta delle Ortiche - Ne vale la Pena (30)
+  5245 5245 Bellaria (268 273 342 746)
+  5246 5246 Grotta sopra Bellaria - Bellano (673)
+  5247 G015 Buco alla Cava Bassa di Perledo (30)
+  5248 5248 Quarta Grotta Sotto la Vecchia SS36
+  5249 P019 Pozzo lungo la Via Invernale
+  5250 P026 Pozzo sopra la Forra
+  5251 5251 Grotticella lungo il sentiero dei Pizzetti
+  5252 G020 Grotta del Ghiacciolo
+  5253 5253 Abisso Kathrina (268)
+  5254 G045 Grotta degli Stalattitoni (171)
+  5255 F002 Falsa Risorgente (171)
+  5256 G007 Grotta Campari Fix (405)
+  5257 G050 Grotta Undiciquaranta (38)
+  5258 P030 Pozzo sul Lato Sinistro della Dolina (38)
+  5259 P028 Pozzo sopra l'Androne (38)
+  5260 N001 Nicchia presso Camino con Frana
+  5261 G010 Grotta Che Vista (38)
+  5262 P015 Pozzo delle Zanzare (38)
+  5263 C005 Condotta su Frattura
+  5264 F004 Fessura dell'Antibiotico
+  5265 R003 Riparo nel Canale del Lupo
+  5266 G027 Grotta Discarica lungo il Sentiero
+  5267 G051 Grotticella con Quattro Ingressi
+  5268 G052 Grotticella Fungillosa
+  5269 R002 Riparo del Ghiaccio
+  5270 T002 Traforo nel Conglomerato
+  5271 R005 Riparo sotto la Porta di Prada
+  5272 G014 Grotta dei Camosci Striscianti
+  5273 G002 Grotta a Centro metri dall'Arco di Roccia
+  5274 P020 Pozzo nel Canalone Lontano
+  5275 F007 Fessura Scomoda
+  5276 G033 Grotta lungo la Forra
+  5277 G024 Grotta del Paglione
+  5278 G023 Grotta del Menisco
+  5279 G021 Grotta della Brutta Arrampicata
+  5280 G032 Grotta lungo la Ferrata
+  5281 G029 Grotta Dodiciottantotto (38)
+  5282 P043 Probabile Probabile Abisso (30)
+  5283 G022 Grotta dell'Intrattenimento (585)
+  5284 5284 Grotta Sopra la Croce (584)
+  5285 B006 Buco sopra il Grenzone (584)
+  5286 S006 -- coincide con 5078
+  5287 G012 Grotta Crist - all - ina (405)
+  5288 B009 Buco sul Lato Sinistro della Foppa
+  5289 G048 Grotta sotto Transpatrizia
+  5290 G019 Grotta del Frisby (38)
+  5291 G053 Grotticella in Val Lori
+  5292 P017 Pozzo in Libera
+  5293 R004 Riparo presso il Riparone
+  5294 5294 NON ASSEGNATO A CATASTO
+  5295 C003 Centauro (586)
+  5296 G065 Grotta di Costa della Scaletta C9 (590)
+  5297 F001 Falsa Ferriera del Sileggio
+  5298 G016 Grotta del Cellulare
+  5299 M002 Miniera di Valle dei Molini
+================================= 5300
+  5300 P033 Pozzo sul Sentiero di Val Lori (38)
+  5301 G028 Grotta Disgelo da Panico
+  5302 5302 Grotta Due
+  5303 G018 Grotta di Costa Riale o Grotta delle Capre (7)
+  5304 P054 PP5
+  5305 P057 3PP
+  5306 P022 Pozzo Pipistrello
+  5307 P023 Pozzo Poker
+  5308 S010 Spaccatura al Buco di Grigna (824)
+  5309 P029 Pozzo sotto il Buco di Grigna
+  5310 G005 Grotta del Buio
+  5311 G049 Grotta Travolti da un'Insana Passione (268 279 342)
+  5312 F009 Finestra di Sengg (268 279 342 402)
+  5313 G031 Grotta Laida 
+  5314 P004 Pozzetto Sbrisolone 
+  5315 P005 Pozzetto sotto la Guglia
+  5316 P027 Pozzo sopra la Guglia
+  5317 P016 Pozzo del Traversone
+  5318 S012 Spaccatura sotto la Cresta
+  5319 B011 Bus de la Sciavada (279 286)
+  5320 P039 Pozzo Terroso
+  5321 B002 Buco dell'Albero 
+  5322 F012 Frattura della Traversata (268)
+  5323 B012 Büs de la Latrina (370)
+  5324 F005 Fessura Bagnata (370)
+  5325 S011 Spaccatura sopra Scivolone
+  5326 G026 Grotta del Pungitopo
+  5327 F006 Fessura della Pozza
+  5328 P001 Pozzetto non Visto
+  5329 G013 Grotta del Cranio di Camoscio
+  5330 F014 Frattura sopra i Nicchioni
+  5331 R006 R1 (279)
+  5332 R008 Pozzo R8 (279)
+  5333 P042 Prima frattura di Zucco Pertusio (279)
+  5334 S007 Seconda frattura di Zucco Pertusio (279)
+  5335 P060 Tritana - Pozzo sul Sentiero per il Rifugio Rosalba (279)
+  5336 B016 Grotta Boldoriella (279)
+  5337 G079 Grotticella sotto il Sentiero per il Colle Valsecchi (279)
+  5338 G080 I Cavità ad est degli Sbalzi di Cantalto - Prima a Ovest della Baita Amalia (279)
+  5339 G081 II Cavità ad est degli Sbalzi di Cantalto - Seconda a Ovest della Baita Amalia (279)
+  5340 G082 III Cavità ad est degli Sbalzi di Cantalto - Terza a Ovest della Baita Amalia (279)
+  5341 5341 IV Cavità ad est degli Sbalzi di Cantalto - Ragni Carnivori (279)
+  5342 G083 V  Cavità ad est degli Sbalzi di Cantalto (279)
+  5343 5343 VI  Cavità ad est degli Sbalzi di Cantalto - Gran Frattura d'Angolo (279)
+  5344 5344 VII  Cavità ad est degli Sbalzi di Cantalto - Grotta dei Bozzoli (279)
+  5345 5345 VIII  Cavità ad est degli Sbalzi di Cantalto - Grotta delle Scolopendre (279)
+  5346 5346 IX  Cavità ad est degli Sbalzi di Cantalto - Grotta degli Strati Cinerini (279)
+  5347 5347 Grotta alle Sorgenti del Pioverna (279)
+  5348 M009 Grotta della Mutanda Stracciata (30)
+  5349 A002 Abisso Nino d'Angelo (38 268 342)
+  5350 M001 Meandro degli Squarci (30)
+  5351 G042 Grotta sotto Orione (38)
+  5352 P013 Pozzo Calibro 47 (38)
+  5353 M005 Grotta del Mugo Merlino (279)
+  5354 G038 Grotta Paiedo (38)
+  5355 P018 Pozzo lungo il Traverso per Arione (279)
+  5356 G017 Grotta del Ciabattino (279)
+  5357 P012 Pozzo Banana Spit (279)
+  5358 P021 Pozzo Nuovo di Pacca (38)
+  5359 B007 Buco sopra Nightmare
+  5360 P040 Pozzo Vicino a Capitano Paff
+  5361 R001 Pozzo di Quota 1853 (585)
+  5362 B010 Buco Tagliente (279)
+  5363 G047 Grotta presso Transpatrizia (279)
+  5364 G040 Grotta presso la Frattura (585)
+  5365 G003 Grotta Addio (38)
+  5366 G011 Grotta Cotolengo Open (38)
+  5367 G030 Grotta Dodiciquaranta (38 268 342)
+  5368 5368 Prima Cavità alle Foppe (38)
+  5369 5369 Seconda Cavità alle Foppe (38)
+  5370 5370 Terza Cavità alle Foppe (38)
+  5371 5371 Sterilità Totale - Quarta Cavità alle Foppe (38)
+  5372 F003 Fecondità Eccessiva (151)
+  5373 S018 Pozzo Saketaj (24)
+  5374 B028 Buco di Emme (558)
+  5375 M003 Mon Cheri (30)
+  5376 P031 Pozzo sul Sentiero per le Foppe (30)
+  5377 P032 Pozzo sotto il Sentiero per la Piancaformia - Pozzo del Bambino (30)
+# 5377 P105 Pozzo del Bambino
+  5378 G035 Grotta No Imbrago (30)
+  5379 G044 Grotta sotto il Sentiero per il Brioschi
+  5380 C004 I Ciop - Cioop (44 268)
+  5381 G008 Grotta nel Canale di Cima Palone (30)
+  5382 5382 Dolina con Pozzo Aperto
+  5383 P056 Pozzetto in Lapiaz (585)
+  5384 5384 Grotta a Fianco alla Nicchia (585)
+  5385 P014 Pozzo Frattaglie e Cipolle (198)
+  5386 P038 Pozzo nelle Foppe (7)
+  5387 B005 Buco Presso la 5105 (7)
+  5388 P003 Pozzetto sotto la Costa del Palone (170) 
+  5389 A001 Abisso Arione (24)
+  5390 A004 Antro Compagnia della Pieve (198)
+  5391 5391 Pozzo 1 SCE (7 10)
+  5392 5392 Pozzo 2 SCE (7 10)
+  5393 5393 Pozzo 3 SCE (7 10)
+  5394 P063 Pozzetto presso la 1577 Lo
+  5395 P008 Prima Cavità sulla via del Nevaio (4)
+  5396 P009 Seconda Cavità sulla via del Nevaio (4)
+  5397 P010 Terza Cavità sulla via del Nevaio (4)
+  5398 C001 Cavità presso il passo del Zapel (4)
+  5399 C002 Cavità presso la Dolina Grande (4)
+================================= 5400
+  5400 P006 Pozzetto presso l'Ometto del Bregai (4)
+  5401 P037 Pozzo del Gelo (7)
+  5402 G025 Grotta della Palina (7)
+  5403 G076 Grotta presso l'Ometto di Pietra (370)
+  5404 P062 Pozzo che dice Marzio - Pozzo prima del Cancello (370)
+  5405 F022 Fessura Tettonica (370)
+  5406 F015 Fessura a Fianco al Canalone Perfido
+  5407 G059 Grotta Vita Spericolata
+  5408 G058 Grotta della Cavalla
+  5409 S014 Secondo Buco sotto la Voragine di 40 metri (370)
+  5410 P047 Primo Buco sotto la Voragine di 40 metri (370)
+  5411 U001 Universal Serial Büs
+  5412 P061 Pozzo nel Prato
+  5413 C009 Cimitero delle Capre
+  5414 B018 Grotta Battito d'Ali (370)
+  5415 G074 Grotta Tutto Addosso
+  5416 G075 Grotticella nel Pozzo Tagliata
+  5417 C010 Condottine in Valletta
+  5418 F013 Fessura di Mister Henky
+  5419 5419 Ignurantel di Giuster (395)
+  5420 S002 Pozzo Hein Heken (10)
+  5421 5421 SCE GSC n 2
+  5422 5422 SCE GSC n 3
+  5423 G093 La Giazera che già z'era
+  5424 5424 Pozzo Interesse Zero (395)
+  5425 P067 Buco del Capo - Sfondamento in Val Laghetto (395)
+  5426 F018 III Pozzo in Fratturaccia Stretta o Frattura Concrezionata (370)
+  5427 F017 II Pozzo in Fratturaccia Stretta o del Tetto (370)
+  5428 F019 IV Pozzo in Fratturaccia Stretta (370)
+  5429 F016 I Pozzo in Fratturaccia Stretta (370)
+  5430 P048 Pozzo della Cisterna (370)
+  5431 5431 II Pozzo lungo il Sentiero - Pozzo dell'Inculeottero (370)
+  5432 5432 Ultimo Pozzo del Manavello - Pozzo Tavanata sul Sentiero (370)
+  5433 P050 Pozzo Metà Menardo (370)
+  5434 G072 Pozzo del Cane Stanco (370 395)
+  5435 5435 Pozzetto Insignificante (370 395)
+  5436 G097 Grotticella presso la 5246 Lo (370)
+  5437 P070 Pozzo delle Margherite
+  5438 P068 Pozzo Toilette
+  5439 P069 Pozzetto Cieco
+  5440 P071 Pozzo Lento
+  5441 B020 Grotta Balcone con Vista (395)
+  5442 R009 Riparo del Lauro
+  5443 B022 Buco degli Opilionidi
+  5444 5444 Buco sul Sentiero di Prada (586)
+  5445 G085 Grotta del Salvacorda 
+  5446 5446 Pozzo della Comunità Pastorale (395)
+  5447 T003 Traforo sotto la Bocchetta
+  5448 G095 Grotta Rendzina (370)
+  5449 G096 Grotta Panini al Vento (370)
+  5450 5450 Grotta presso il Pozzo Troncato (370)
+  5451 B023 Primo Buco sotto la 1515  (395)
+  5452 5452 Secondo Buco sotto la 1515  (395)
+  5453 5453 Primo Buco sopra Euro
+  5454 5454 Pozzo presso 5103 - Pozzo Spittato
+  5455 5455 Antro nella Parete di Antica Erboristeria (395)
+  5456 A005 Arietta Berti (395)
+  5457 G099 XI Grotta ad Est degli Sbalzi di Cantalto - Grotta Stefanel (395)
+  5458 G098 X Grotta ad Est degli Sbalzi di Cantalto - Grotta del Manipolatore (395)
+  5459 5459 XII Grotta ad Est degli Sbalzi di Cantalto (395)
+  5460 5460 XIII Grotta ad Est degli Sbalzi di Cantalto (395)
+  5461 5461 Meandro dietro l'Angolo (395)
+  5462 5462 Antro Tamarro (395)
+  5463 S020 Segnale Assente (474 589 857)
+  5464 F021 F1 Ingresso Alto (589 857)
+  5465 P072 Pozzo Turistico - Pozzetto sotto la Cima Palone N (585)
+  5466 5466 Antro Sulla Parete di Prada - Buco in Parete
+  5467 R010 Riparo del Casel de la Spaula
+  5468 B025 Buco Vicino al Pallone
+  5469 B026 Fessura del Crinoide (484)
+  5470 P073 Pozzo Presso P30 (484)
+  5471 A003 Aldebaran (38)
+  5472 5472 Grotta Sopra le Sorgenti del Pioverna
+  5473 G041 Grotta del Simbolo (30 342)
+  5474 M007 Mattacchionata alle Foppe (484)
+  5475 T008 Traforo Sotto Viva le Donne 
+  5476 G104 Grotta Massi dall'Alto (484)
+  5477 C015 Fessura Catarri Verdi (484)
+  5478 G103 Grotticella Muschiosa
+  5479 G100 Grotticella Appena Catastabile
+  5480 G102 Grotta di Gnomo
+  5481 5481 Dolina con Campo Solcato Laterale
+  5482 G110 Grotta 14 Agosto
+  5483 P082 Pozzo con Arrivo Attivo
+  5484 G111 Grotta dell'Aspirina (558)
+# 5485 F025 ANNULLATO (Frana nella Neve / coincide con 5111)
+  5486 F034 Fessura Stanco
+  5487 F032 Fessura Base Canalino
+  5488 P078 Pozzo nel Ghiaione
+  5489 P079 Pozzo della Sete (558)
+  5490 G109 Pozzo presso il Salice (558)
+  5491 P080 Pozzo sulla Parete sopra il Sentiero
+  5492 S024 Scivolo con Camino
+  5493 T010 Tana in Parete (558)
+  5494 S023 Sorgente Verde (558)
+  5495 F029 Fessura Prima in Val Meria (558)
+  5496 P084 Pozzo con Lavandino
+  5497 S021 Stallina sotto Zucchetto con Cipressi
+  5498 F028 Fessura dell'Eccentrica
+  5499 F030 Frattura in Discesa
+================================ 5500 
+# (5500-5505 usati da varese)
+# 5506 5506 NUMERO IN BIANCO
+  5507 G106 Grotta del Massso Scollato
+  5508 G105 Grotta del Pisolino
+  5509 S022 Sfondamento sopra il Sentiero del Viandante
+  5510 R011 Riparo con Ghiaccioli
+  5511 R012 Grotta R6 - Pozzo presso 5233 (370 395)
+  5512 O001 Ossobuco (484)
+  5513 G118 Grotta II di Val Navello (558)
+  5514 G119 Grotta III di Val Navello (558)
+  5515 T011 Tapenade (558)
+  5516 V001 Vedo Fuori (558)
+  5517 G107 Pozzo I.S.S. (558)
+  5518 T007 Traforo della Mandibola
+  5519 C016 Cicos 2075
+  5520 P081 Pozzo Voltaren
+  5521 B024 Buco prima del Salto
+  5522 T009 Le Tre Civette (484 547)
+  5523 G116 Grotta 3G (585)
+  5524 C020 Camino con Fungilli
+  5525 F054 Grotta del Fiorume
+  5526 B030 Buco Rovente
+  5527 C017 Cahor - Grotta lungo il Sentiero per il Bietti (547)
+  5528 B003 Buco nell'Alta Val Lavine
+  5529 G114 Stonehenge
+  5530 D002 Dolina Inscendibile
+  5531 P089 Pupa di Prada (547 576)
+  5532 P092 Pozzo presso la Bocchetta
+  5533 P091 Pozzo sopra la 1925
+  5534 E001 Ex-impraticabile
+  5535 G112 Grotta Difficile Ritorno
+  5536 T012 Tana di Spider
+  5537 B032 Buco delle Ragnatele
+  5538 G115 Grotticella dietro il Pungitopo
+  5539 S005 Saletta Concrezionata (576)
+  5540 R013 Ragazza con Mazzetta (576)
+  5541 5541 Buco in Scavo
+  5542 5542 Grotticella in Parete (585) 
+  5543 G101 Grotticella a Est della Lo 1622 (585)
+  5544 P075 Pozzetto sopra la Lo 1608 (585)
+  5545 5545 F1 Media
+  5546 F023 F1 Bassa (589 857)
+  5547 B034 Buco del Bar (589 857)
+  5548 B036 Buco Pulsante - C11 (589)
+  5549 B035 Grotta Chicca - C10 (589 857)
+  5550 T016 Tana dell'Orso
+  5551 G121 Grotta con Lame di Fango Fossile
+  5552 R015 Riparo sulla Parete vicina all'Arco
+  5553 F056 Frattura in Val Scarettone (670)
+  5554 P094 Grotta Pericolo Caduta Sassi
+  5555 G117 Grotta presso il Masso che Cadrà
+  5556 C021 Camino presso la Lo 5037
+  5557 T015 Taxus Paccatus
+  5558 T014 Taxus Fixata
+  5559 T013 Taxus Caprata
+  5560 R014 Riparo appena sopra il Sentiero
+  5561 A008 Anonima Scavi
+  5562 F055 Frattura con Fungilli
+  5563 G120 Grotticella delle Zecche
+  5564 G094 Grotta della Sentinella (670)
+  5565 C008 Canale Malato
+  5566 F058 Falso P30 (670)
+  5567 P096 Pozzetto nel Canalino
+  5568 G146 Grotticella delle Chiocciole
+  5569 P099 Pozzo sopra il Canalone Arrampicato (673)
+  5570 P102 Pozzo Nascosto (673)
+  5571 P098 Pozzo nell'Impluvio con Sassi (673)
+  5572 P103 Pozzo a Due Ingressi nella Parete sopra la Guglia (673)
+  5573 G126 Grotticella nel Bogaz sotto Topino (670)
+  5575 X005 Fonte Uga (670 746)
+  5576 P095 Pozzetto sotto Centauro (670)
+  5577 G122 Grotta dell'Acqua
+  5578 D001 Daikin
+  5579 F057 Falsa 5158 Lo (670)
+  5580 G125 Grotta della Grandinata (670)
+  5581 G091 Grotta sotto il Brioschi
+  5582 T006 Tikkabox (670)
+  5583 B037 Buco sopra il Bogaz in Parete
+  5584 B021 Buco Cavallo (670)
+  5585 C022 Campanella (670)
+  5586 Q001 Quinta Cavità alle Foppe
+  5587 S029 Sesta Cavità alle Foppe
+  5588 P101 Pozzo dell'Agnello
+  5589 C007 Cengia Selvaggia
+  5590 P058 Pozzolone
+  5591 G145 Grotticella presso Bivacco Merlini
+  5592 P100 Pozzo del Nido (673 682 775 824)
+  5593 H003 Humphrey Bogaz (673 682 775)
+  5594 F067 Frattura nella Parete Marcia
+  5595 C025 Camino con Stalattite Gigante
+  5596 C023 Cavernetta della Bottiglia di Vetro
+  5597 C026 Cavità a Tre Ingressi
+  5598 C024 Condotta Stretta
+  5599 G136 Grotta con Ingresso Riempito
+================================= 5600
+  5600 G132 Grotta con Laccetto di Ferro (673)
+  5601 G135 Grotta nel Conglomerato con Muretto
+  5602 G137 Grotticella con Ingresso Fratturato
+  5603 G138 Grotticella con Masso Strettoia
+  5604 F061 Falsa Piombera
+  5605 F064 Frattura con Ossa
+  5606 F063 Frattura sotto il Faggio
+  5607 G147 Grotta Scollata
+  5608 G148 Grotta tra Liane a Rovi
+  5609 P104 Pozzo Glomerato
+  5610 R016 Riparo di Monte Cucco
+  5611 F033 Fessura a Due Entrate
+  5612 F026 Frigor del Campo
+  5613 M008 Meandro in Salita
+  5614 P083 Pozzo Passante
+  5615 S027 Sfondamento tra la Neve
+  5616 C018 Cavità Catastabile sul Sentiero per il Zapel
+  5617 F065 Freatico sotto la Roccia Sbriciolata
+  5618 G141 Galleria Passante in Cresta
+  5619 G143 Grotta con Massi all'Ingresso
+  5620 G140 Grotta nella Parete prima del Cancello
+  5621 G144 Grotticella su Cengia
+  5622 G139 Grotticella sul Lato Destro del Canale dell'Ometto
+  5623 G131 Grotticella con Argilla (670)
+  5624 G130 Grotticella sul Ciglio del Vallone (670)
+  5625 P110 Pozzo a Fianco ad un Masso
+  5626 G134 Grotticella delle Vaschette Viola (673)
+  5627 G133 Grotticella con Carrucola Arruginita
+  5628 G142 Grotticella di Lareson
+  5629 O002 Occhi di Gatto
+  5630 S025 Smemo
+  5631 C028 Crepa alla Bocchetta di Val Mala
+  5632 A010 Grotta dell'Afa
+  5633 C030 Campo Solcato presso Lo 1985
+  5634 P107 Pozzo Muggito dal Profondo
+  5635 5635 Pozzo presso la Baita del Pastore
+  5636 G151 Grotta presso Frana
+  5637 G152 Grotticella sotto il Ginepro
+  5638 R017 Riparo con Camino
+  5639 F035 F3
+  5640 F059 F4 (857)
+  5641 C027 Grotta Pop Corn - C12 (857)
+  5642 C029 Cresta che Pesta
+  5643 P106 Pozzo sulla Parete W del Pizzo della Pieve
+  5644 P093 Pozzo della Volpe
+  5645 F066 Pozzo delle Patole
+  5646 P108 Pozzo della Fiamma
+  5647 F062 Frattura presso il Tornante
+  5648 P109 Pozzo nella Parete Sbagliata (751 753 775 824)
+  5649 5649 Frattura con Camino
+  5650 5650 Grotta sotto la Parete di Mughi
+  5651 5651 Grotticella a fianco al Riparo delle Capre
+  5652 5652 Grotta sopra la Lo 5214
+  5653 5653 Grotta delle Farfalle
+  5654 F068 Falsa 5385 [NOTA coincide con la 5385]
+  5655 H002 Grotta Hircus
+  5656 G060 Grotta Bassa
+  5657 F060 Frattura senza Finestre (670)
+  5658 T017 Tana sopra Tikkabox (670)
+  5659 G123 Grotta della Profezia (670)
+  5660 G149 Grotta nella Baita dei Ronchi (673)
+  5661 P076 R9 Pozzo sul Sentiero per lo Zucco Pertusio
+  5662 P052 Pozzo nella Foppa del Masone
+  5663 5663 Grotticella nella Stallina
+  5664 5664 Camino con Vertebra
+  5665 5665 Grotticella del Soffione
+  5666 5666 Grotticella dell'Arrampicata su Rosa
+  5667 5667 Cunicolo con Fungilli
+  5668 5668 Gallerie Sovrapposte
+  5669 5669 Camino Piccolo
+  5670 5670 Buco Sopra il Prato
+  5671 5671 Grotticella dell'Elicottero
+  5672 5672 Grottone con Quattro Ingressi
+  5673 5673 Riparo delle Lamiere
+  5674 5674 Riparo dei Pluviali
+  5675 5675 Scivolo con Argilla
+  5676 5676 Grotticella del Muschio
+  5677 5677 Grotticella del Cardo
+  5678 5678 Buco presso Poltergeist
+  5679 5679 grotticella con rifiuti
+  5680 5680 Buco Franoso nel Conglomerato
+  5681 G046 Grotta Transpatrizia (269 273 324)
+  5682 5682 Grotticella dietro la Grossa Colonna
+  5683 5683 Grotta della Febbre
+  5684 F031 Frattura Rain Man
+  5685 5685 Grotta presso i Molini
+  5686 5686 Frattura sotto Cascina Sagomet
+  5687 5687 Cavita` con Due Pozzi
+  5688 5688 Riparo presso il Ponte
+  5689 5689 Frattura con Sasso Instabile
+  5690 5690 Tana presso Tasso
+  5691 5691 Grotta del Ragno Gigante
+  5692 5692 Spaccatura coperta da Sassi
+  5693 G151 Grotta al Termine del Canyon
+  5694 5694 Grotta nel Canyon
+  5695 P113 Grand Canyon
+  5696 5696 Frattura in Arrampicata
+  5697 5697 Cunicolo con Concrezioni
+  5698 G150 Grotta dell'Olio Cuore
+  5699 5699 Riparo sotto l'Olio Cuore
+================================= 5700
+  5700 B042 Buco nel Prato sopra la Strada
+  5701 P112 Pozzetto sotto la Grotta dei Vivi - P86
+  5702 5702 Buchetto 50m sopra la Strada
+  5703 5703 Grotta nella Parete a Sinistra della 1708
+  5704 G153 Grotticella sotto il Terzo Tornante
+  5705 5705 Grotta tra Calcare di Esino e Conglomerato
+  5706 5706 Riparo presso 5705
+  5707 5707 Grotticella con Colonna di Roccia
+  5708 5708 Pozzo di 18 m sulle Cresta di Mogafieno
+  5709 5709 Scivolo in Dolinetta
+  5710 5710 Conicolo della Traversata Parziale
+  5711 5711 Pozzo del Fossile Ignoto
+  5712 5712 Pozzo tra le Pale
+  5713 N004 Tana presso la C2
+  5714 5714 Grotta del Miraggio
+  5715 5715 Grotticella in Parete appena a Sinistra della Taculera
+  5716 5716 Frattura sotto il Pizzo della Pieve
+  5717 5717 Grotticella presso la 1994
+  5718 5718 Grotta del Palone Gonfiato
+  5719 5719 Pozzetto su Cengia del Palone
+  5720 5720 Pozzetto sotto il Bosco (751)
+  5721 5721 Grotta sopra la 1739
+  5722 5722 Pozzetto presso 1983
+  5723 5723 Grotta Wührer
+  5724 5724 Grotticella sopra il Canale
+  5725 5725 Fessura d'Eghen
+  5726 5726 Nicchione con Cordone
+  5727 5727 Traforo sopra la Scarpata
+  5728 5728 Forra di Val d'Inferno
+  5729 5729 Pozzo Troppo Pericoloso
+  5730 5730 Grotta sopr ai Canali dei Debris Flow
+  5731 5731 Condotta Grattugia
+  5732 5732 Grotticella Incrostante
+  5733 5733 Tana Concrezionata
+  5734 5734 Interstrato con Cavolfiori
+  5735 5735 Grotta della Primula
+  5736 5736 Pozzo con Imbocco Strettissimo
+  5737 5737 Crepa Concrezionata
+  5738 5738 Stanza Concrezionata sotto gli Allori
+  5739 5739 Frattura 2M sotto il Sentiero
+  5740 5740 Lo Stercaio
+  5741 5741 Riparo Umido
+  5742 5742 Abisso Monster - Abisso del Portorella
+  5743 5743 Grotta in Parete sopra la Cavernetta
+  5744 5744 Interstrato sulla Cengia degli Sbalzi
+  5745 5745 Prima Cavita' sotto Cascina Sagomet
+  5746 5746 Quarta Cavita' sotto Cascina Sagomet
+  5747 5747 Quinta Cavita' sotto Cascina Sagomet
+  5748 5748 Sesta Cavita' sotto Cascina Sagomet
+  5749 5749 Grotta di fronte ai Furgoncini
+  5750 5750 Grotta Franosa sotto i Furgoncini
+  5751 5751 Camino nel Canale sotto la Bocchetta
+  5752 5752 Doppio Buco presso la Dolina Grande
+  5753 5753 Grotticella sulla parete della Taculera
+  5754 5754 Faglia sulla Parete Fasana
+  5755 5755 Quarta Grotta di Val Navello - Prima Grotta a Est della 1567 Lo
+  5756 5756 Sfondamento Recente
+  5757 5757 Pozzo sotto ai Massi
+  5758 5758 Crepa presso la 1685
+  5759 5759 Cunicolo delle Evinospongie
+  5760 5760 Grotticella in parete presso l'Abete
+  5761 5761 Grotta con Strettoia in Parete
+  5762 5762 Pozzetto nel Nevaio Basso
+  5763 5763 Castello di Cenerentola
+  5764 5764 Grotta Sedicesima del Zuc del Cant del Brug
+  5765 5765 Grotta Diciassettesima del Zuc del Cant del Brug
+  5766 5766 Grotta Diciottesima del Zuc del Cant del Brug
+  5767 5767 Grotta Diciannovesima del Zuc del Cant del Brug
+  5768 5768 Grotta Ventesima del Zuc del Cant del Brug
+  5769 5769 Grotta Ventunesima del Zuc del Cant del Brug
+  5770 5770 Grotta Ventiduesima del Zuc del Cant del Brug
+  5771 5771 Traforo sotto la Parete Scollata
+  5772 5772 Frana Gigante 1
+  5773 5773 Frana Gigante 2
+  5774 5774 Crepa sopra Pendio Ripido
+  5775 5775 Pozzo nel Canalone
+  5776 5776 Grotta a Fianco della 5235 Lo
+  5777 5777 Corrente Discensionale
+  5778 5778 Miniera dei Camosci
+  5779 5779 Pozzo Scassone - Pozzo Secondo nel Canalone
+  5780 5780 Grotta vicono alla Sorgente del Tuf
+  5781 5781 Quattordicesima Grotta a Est degli Sbalzi di Cantalto
+  5782 5782 Quindicesima Grotta a Est degli Sbalzi di Cantalto
+  5783 5783 Spaccatura con Scheletro
+  5784 5784 Mugo B.
+  5785 5785 Abisso dell'Asinino
+  5786 5786 Arco di Roccia dei Lares
+  5787 5787 Grotta nel Canale sotto il Sentiero
+  5788 5788 Grotta presso il Pialeral
+  5789 5789 Grotta 20m sotto i Furgoncini
+  5790 5790 Grotticella con Nido
+  5791 5791 Buco sotto l’Abisso Giordano
+  5792 5792 Sorgentella in Vallori
+  5793 5793 Frattura a fianco al Crollo
+  5794 5794 Frattura verso il Piz d’Eghen
+  5795 W001 W le Capre
+  5796 5796 Pozzo Geode
+  5797 5797 Pozzetto presso 1869
+  5798 5798 Nicchia nella Voragine
+  5799 5799 Buco delle Ammoniti
+================================= 5800
+  5800 5800 Buco sopra la Dolina
+  5801 5801 Grotticella del Badile
+  5802 5802 Quinta Cavita' di Val Navello
+  5803 5803 Miniera di Galena
+  5804 5804 Grotta nella Cantina di Cascina Sagomet
+  5805 5805 Grotta Uno
+  5806 5806 Dolina sopra Cascina Sagomet
+  5807 5807 Grotta della Porticina (824)
+  5808 5808 Ottava Cavita' sotto Cascina Sagomet
+  5809 5809 Tana del Tasso - Nona Cavita' sotto Cascina Sagomet
+  5810 5810 Decima Cavita' sotto Cascina Sagomet
+  5811 5811 Undicesima Cavita' sotto Cascina Sagomet
+  5812 5812 Dodicesima Cavita' sotto Cascina Sagomet
+  5813 5813 Grotta Miniera dei Sette Nani (824)
+  5814 5814 Grotta Miniera dei Nani Magri
+  5815 5815 Ventesima Cavita' presso Cascina Sagomet
+  5816 5816 Ventitreesima Cavita' presso Cascina Sagomet
+  5817 5817 Ventiquattresima Cavita` presso Cascina Sagomet
+  5818 5818 Settima Cavita' sotto Cascina Sagomet
+  5819 5819 Venticinquesima Cavita' presso Cascina Sagomet
+  5820 5820 Grotticella presso il Pozzeo del Bambino
+  5821 5821 Pozzetto dietro la Nicchia
+  5822 5822 Pozzetto 1 sopra la Lo 5632
+  5823 5823 Pozzetto 2 sopra la Lo 5632
+  5824 5824 Grotta nella Terra
+  5825 5825 Grotta Miniera sotto la Lamiera
+  5826 5826 Grotta della Polpa
+  5827 5827 Grotta a due Ingressi presso la 1641
+# 5828 5446 Grotta con Ingresso in Frana
+  5829 5829 Pozzo sopra il grande Bogaz
+  5830 5830 Meandro sotto la Dolina Piatta
+  5831 5831 Pozzo Passante lungo la Via Suerte
+  5832 5832 Grotta nella Parete a fianco alla Via Suerte
+  5833 5833 Pozzo a fianco al Ciabattino
+  5834 5834 Grotta presso la 1949
+  5835 5835 Grotta a fianco alla Lapide
+  5836 5836 Grotta con Riempimenti Interni
+  5837 5837 Cunicolo alla base della Parete
+  5838 5838 Primo Pozzo lungo Spaccatura
+  5839 5839 Secondo Pozzo lungo Spaccatura
+  5840 5840 Grotticella presso la 1583
+  5841 5841 Quarta Grotta di Cul
+  5842 5842 Grotticella sotto la Corniola
+  5843 5843 Quinta Grotta di Cul
+  5844 5844 Sesta Grotta di Cul
+  5845 5845 Pozzetto nel Conglomerato sopra la Strada
+  5846 5846 Cunicolo presso la Cascata di Cenghen
+  5847 5847 Cunicolo in parete a sx della Cascata di Cenghen
+  5848 5848 Pecorelle Smarrite
+  5849 5849 Pecoroni Ritrovati
+  5850 5850 Medusa (857)
+  5851 5851 Grotta delle Zolle
+  5852 5852 Pozzo al Centro del Canalone
+  5853 5853 Buco presso la Grotta del Formaggee
+  5854 5854 Pozzetto tra 1801 e 1802
+  5855 5855 1965 bis
+  5856 5856 Pozzo del Ciottolone
+  5857 5857 Pozzo dietro le Guglie della Via dell'Inglese
+  5858 5858 Pozzetto sotto Frana
+  5859 5859 Falsa 1597
+  5860 5860 Pozzetto sotto la 1650
+  5861 5861 Pozzo Salta Salta
+  5862 5862 Frana Instabile
+  5863 5863 Sprofondamento Recente
+  5864 5864 Pozzo su Spaccatura
+  5865 5865
+  5866 5866 Buco nel Sasso del Buco
+  5867 5867 Volo Libero
+  5868 5868 Pozzo a fianco al sentiero dello Zucco Portorella
+  5869 5869 Frattura sopra i Colonghei
+  5870 5870 Grotta Sesta in Localita` Puin
+  5871 5871 Frattura sotto lo Zucco Pertusio
+  5872 5872 Frattura Spittata
+  5873 5873 Frattura sullo Zucco Pertusio sotto Sentiero
+  5874 5874 Frattura Siglata SCE
+  5875 5875 Falsa 5049
+  5875 5876
+  5877 5877 False 5361
+  5878 5878 Grotta presso la Cascata di Cenghen
+  5879 5879 Buco al Contrario
+  5880 5880 Grotta Panorama
+  5881 5881 Abisso Pilastro - Pozzo del Pilastro (867)
+  5882 5882 Pozzo nell'Uvala Grande
+  5883 5883 Caverna sotto la Spiaggia
+  5884 5884 Crotto Grignetta
+  5885 5885 Grotticella presso il Pilastro dei Pizzi di Parlasco
+  5886 5886 Zirlac
+  5887 5887 Ferrera dei Tassi
+  5888 5888 Freatico presso il Buco di Grigna
+  5889 5889 Pozzo Cipollino
+  5890 5890 Prima Grotta ai Parascioeulin
+  5891 5891 Piccole Donne Crescono
+  5892 5892 Grottone dei Moschetti
+  5893 5893 Wind Chill (Cunicolo con Pozzo)
+  5894 5894
+  5895 5895 Condottino a piu' Ingressi
+  5896 5896 Condottino con Frana
+  5897 5897
+  5898 5898 Buco presso gli Occhiali
+  5899 5899 Prima Grotta a Fianco all'Arco di Roccia
+  5900 5900 Seconda Grotta a Fianco all'Arco di Roccia
+  5901 5901 L'Addormentato nel Bregai
+  5902 5902 Pozzo sulla Via dei 50
+  5903 5903 Traforo dell'Arco Marcio
+  5904 5904 Condottino degli Escrementi di Topo
+  5905 5905 Condotta Freatica Antica
+  5906 5906 Pozzo Foppe
+  5907 5907 Pozzo Passante sul Ciglio della Val Mala
+  5908 5908 Buco nel Prato
+  5909 5909 Arianne
+  5910 5910 Grotticella presso la Falesia d'Oreste
+  5911
+  5912 5912 Pozzetto lungo la Frattura
+  5913 5913 Frattura di Grandi Dimensioni
+  5914 5914 Frattura di Colonghei
+  5915 5915 Pozzo della Muffa
+  5916 5916 Grotticella Naturale a Fianco alla Miniera Lunga
+  5917 5917 [grotta in Val Mala]
+  5918 5918 Grotticella nel Canale a Ovest della Bocchetta del Guzzi
+  5919 5919 Grotticella delle Palle
+  5920 5920 Grotta Cora
+  5921 5921 Seconda Grotta sotto il Baitello
+  5922 5922 Condottino delle Radici
+  5923 5923 Fratttura presso 5911 LO
+  5924 5924 Antro del Focolare
+  5925 5925 Pozzetto tra i Massi di Cresta
+  5926 5926 Pozzo sul versante nord dello Zucco Portorella
+  5927 5927 Pozzo presso il Castello di Bedolette
+  5928 5928 Grotta dei Lares
+  5929 5929 Buco da Scavalcare nel Canale
+  5930 5930 Buco Killer
+  5931 5931 Frattura sotto Sentiero
+  5932 5932 Pozzetto sopra la 1931
+  5933 5933 Grotticella sopra la 1931
+  5934 5934 Pozzo sopra la 1933
+  5935 5935 Abisso Alberto Buzio
+  5936 5936 Pozzo Evidente
+  5937 5937 Otto Esse
+  5938 5938 Grotticella nel canale della Cresta Giardino
+  5939 5939 Frattura in Cima al Canale Obliquo
+  5940 5940 Prima Crepa Pericolosa
+  5941 5941 Seconda Crepa Pericolosa
+  5942 5942 Scollamento sul Ciglio della Valle Scarettone
+  5943 5943 Grotta degli Arditi Boscaioli
+  5944 5944 Grotta nel Canale Foglioso
+  5945 5945 Buco sotto gli Alberi
+  5946 5946 Grotta dei Butteri
+  5947 5947 Grotta Ca Bianca
+  5948 5948 Foro Circolare Base Parete
+  5949 5949 Grotticella in Parete sotto Narete
+  5950 5950 Pozzo sulla Parete della Val Mala
+  5951 5951 Grotta delle Gulie che si Sgretolano
+  5952 5952 Ventiseiesima Cavita' presso Cascina Sagomet
+  5953 5953 Pozzo Studnia
+  5954 5954 Pozzo del Testamento
+  5955 5955 Geode del Pizzo della Pieve
+================================================ END 9999
+  A006 A006 Aghilera
+  A007 A007 Abbaglio
+  A009 A009 Arianne
+  A011 A011 Abisso Asinino
+  A012 A012 Buco dell'Ajal
+# NEXT A013
+#------------------------------------
+  B001 B001 Buco Piercing (151)
+  B004 B004 Buco delle Colonne (171)
+  B008 B008 Buco sul Foppe
+  B013 B013 Buco presso la Spaccatura di Paolo
+  B014 B014 Buco presso la Frattura Grande
+  B027 B027 Buco sotto Segnale Assente
+  B029 B029 Buco presso lo Zucco dei Merli
+# B031 B031 Buco del Tappo Rosso [n.c.]
+  B033 B033 Buco sotto F1
+  B038 B038 Buco in Cresta
+  B039 B039 Buco presso Volpe
+  B040 B040 Buco sotto Frigobox
+# B041 B041 Buco Abitato [n.c.]
+  B043 B043 Buco sulla Pala
+  B044 B044 Buco presso ls Ghiacciaia della Capanna Monza
+  B045 B045 Buco q 1665 nel Canalone prina dello Zucco dei Lares
+  B046 B046 Buco Versante Valsassina
+  B047 B047 Buco presso la F2
+  B048 B048 Buco del Pannolino
+  B049 B049 BUC - Buc
+# NEXT B050
+#------------------------------------
+  C006 C006 C1 - Fessura sul Pizzo dei Cich
+  C011 C011 Con Air
+  C012 C012 Cazzi Amari
+  C013 C013 Cavità tre ingressi
+  C014 C014 Certamente Abisso
+  C019 C019 Condottine sopra il Campo
+  C033 C032 Grotta C2
+# NEXT C033
+#------------------------------------
+# NEXT D003
+# E002 E002 Erratico
+# NEXT E003
+#------------------------------------
+# NEXT F069
+#------------------------------------
+  G001 G001 Gamma 2 (190)
+  G004 G004 Grotta Base Placche
+  G009 G009 Grotta che non c'era (30)
+  G036 G036 Grotta Orizzontale nel Canale dietro il Bivacco
+  G054 G054 La Giazera (11)
+  G055 G055 GR6 - Prima Grotta sotto l'ex statale 36
+  G056 G056 GR7 - Seconda Grotta sotto l'ex statale 36
+  G057 G057 Grotta vicino alla Baita
+  G066 G066 Grotta Franosa sotto i Furgoncini
+  G067 G067 Grotta Sopra la Crocetta
+  G068 G068 Grotta nella Dolina al Zapel
+  G069 G069 Grotta presso il Bivacco Ugo Merlini
+  G070 G070 Grotta presso Tikkabox
+  G071 G071 Grotta 2
+  G073 G073 La Grotticina
+  G084 G084 Graneel
+  G086 G086 Grotta del Pilastro
+  G089 G089 Grotta di fronte ai Furgoncini
+  G090 G090 Grotta Orizzontale dopo Arco Naturale
+  G092 G092 Grotticella dopo Action Velue
+  G113 G113 Grotta Perduta
+  G124 G124 Grotta sotto Topino
+  G127 G127 Grotta della Galatina
+  G128 G128 Grotta presso la Cascata
+  G129 G129 Grotticina a Gisazio
+# NEXT G154
+#------------------------------------
+  H001 H001 Ha da veni` Baffone
+# NEXT H004
+  I002 I002 Interstrato due vie
+  I003 I003 Ingresso Gabriele
+# NEXT I004
+  K001 K001 Buco Killer
+  L001 L001 L'è mia Asee (670)
+# NEXT L002
+#------------------------------------
+# M004 M004 Miniera [è artificiale] [n.c.]
+  M012 M012 Millefoglie
+# NEXT M012
+#------------------------------------
+  N003 N003 No Punta No Passi
+# NEXT N005
+#------------------------------------
+  P002 P002 Pozzetto presso Ariazzone
+  P007 P007 Pozzetto presso la 1557 (4)
+  P041 P041 Prima Cavità della Val Bordesiglio (38)
+  P044 P044 P3 dei Tassi - P-vello (109)
+  P045 P045 Pozzo di Piattola
+# P055 P055 Pozzetto sul Sentiero [n.c.]
+  P059 P059 Pozzo sotto il Buco della Sera
+  P065 P065 Pozzo Spittato sul Sentiero
+  P074 P074 Pozzetto dietro la Nicchia
+  P077 P077 Pozzo presso la Lo Lc 1756
+  P097 P097 Pozzetto sopra Saltino
+  P106 P106 Pozzo di 17m sulla Cresta di Mogafieno
+  P111 P111 Pozzetto sotto la Grotta dei Vivi [n.c.]
+# N.B. P114 era P107
+  P114 P114 Pozzo di 5m sulla Cresta di Mogafieno 
+  P115 P115 Le Pale del Pizzo dei Cich
+  P116 P116 Pozzetto a fianco 5368
+# NEXT P117
+# NEXT R018
+#------------------------------------
+  S009 S009 Sorgente del Pioverna (279)
+  S016 S016 Secondo Buco sopra Euro - Grotta sopra Euro 
+  S017 S017 Strisciadel
+  S019 S019 Sala 3 x 2
+  S026 S026 Spaccatura con Pozzetto
+  S028 S028 SS36
+  S030 S030 Sgrinfete Sgranfete
+# NEXT S031
+#------------------------------------
+# T001 T001 Traforo del Parnacchiometro (174)
+  5523 T018 3G
+# NEXT T019
+#------------------------------------
+  U001 U002 Grotta nell'Uvala
+  NEXT U003
+#------------------------------------
+# NEXT V002
+#------------------------------------
+  X002 X002 SCE5 (12)
+  X004 X004 Miniera Alta Val Calolden
+  X006 X006 Pozzo sul Sentiero per il Passo del Gatto
+  X011 X011 Miniera di S. Anna
+  X012 X012 3 Luglio Ore 17.10
+# NEXT X013
+# NEXT Y001
+# NEXT W002
+#------------------------------------
+  Z000 Z000 Complesso dell'Alto Releccio, Alfredo Bini - Complesso del Grignone (269 383 548 649 696 746 775, 858, 883)
+  Z001 Z001 Complesso del Ghiaccio 1720-1734-1737-1739
+# NEXT Z002
+============================ END -----------------
+# 5155 C031 Condotta con Ingresso Stretto == Buco della Sera
