@@ -901,3 +901,4 @@
 901 LaGrignaAlContrario/LGaC-43f.pdf
 902 LaGrignaAlContrario/LGaC-43g.pdf
 903 SopraESottoIlCarso/202608.pdf
+904 CAI-Lecco/Ornaghi2026.pdf
