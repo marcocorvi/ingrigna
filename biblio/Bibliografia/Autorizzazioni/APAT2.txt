@@ -1,0 +1,92 @@
+From gabriella.pesci@apat.it Mon Sep 29 13:27:19 2008
+Received: from els00wmx01.elsag.it ([172.19.5.57]) by
+	GRPGEPWMX0011.grptop.net with Microsoft SMTPSVC(6.0.3790.1830); Mon, 29 Sep
+	2008 13:27:19 +0200
+Received: from elcgepulmx04.servizi.elsag.it ([151.89.31.13]) by
+	els00wmx01.elsag.it with Microsoft SMTPSVC(6.0.3790.1830); Mon, 29 Sep 2008
+	13:27:17 +0200
+Received: from elcgepulmx04.servizi.elsag.it (localhost [127.0.0.1]) by
+	localhost (Postfix) with SMTP id 755D7157200 for
+	<marco.corvi@elsagdatamat.com>; Mon, 29 Sep 2008 13:27:17 +0200 (CEST)
+Received: from smtp.apat.it (smtp.apat.it [193.206.192.5]) by
+	elcgepulmx04.servizi.elsag.it (Postfix) with ESMTP id 3C6BD1542FB for
+	<marco.corvi@elsagdatamat.com>; Mon, 29 Sep 2008 13:27:17 +0200 (CEST)
+Received: from pescig (unknown [10.16.232.4]) by smtp.apat.it (Postfix)
+	with SMTP id 3ECEB550006; Mon, 29 Sep 2008 13:26:40 +0200 (CEST)
+Message-ID: <007401c92226$269b66b0$04e8100a@pescig>
+From: "Pesci Gabriella" <gabriella.pesci@apat.it>
+To: "marco corvi" <marco.corvi@elsagdatamat.com>
+Cc: <urp@apat.it>
+References: <006801c9221c$4fb6f9b0$04e8100a@pescig>
+	 <1222692044.4769.7.camel@localhost.localdomain>
+Subject: Re: Autorizzazione alla riproduzione
+Date: Mon, 29 Sep 2008 13:26:00 +0200
+MIME-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="iso-8859-1"; reply-type=original
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.3138
+Disposition-Notification-To: "Pesci Gabriella" <gabriella.pesci@apat.it>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3350
+X-APAT-MailScanner: Found to be clean
+X-APAT-MailScanner-SpamCheck: non spam, SpamAssassin (not cached,
+	punteggio=-64.999, necessario 6, autolearn=disabled, ALL_TRUSTED -50.00,
+	BAYES_00 -15.00, STOX_REPLY_TYPE 0.00)
+X-Spam-Status: No
+X-PMX-Version: 5.4.3.345767, Antispam-Engine: 2.6.0.325393, Antispam-Data:
+	2008.9.29.110408
+X-PerlMx-Spam: Gauge=IIIIIII, Probability=7%, Report='BODY_SIZE_1000_1099
+	0, BODY_SIZE_5000_LESS 0, INVALID_MSGID_NO_FQDN 0, USER_AGENT_OE 0,
+	__BOUNCE_CHALLENGE_SUBJ 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __HAS_MSGID
+	0, __HAS_MSMAIL_PRI 0, __HAS_X_MAILER 0, __HAS_X_PRIORITY 0,
+	__MIME_TEXT_ONLY 0, __MIME_VERSION 0, __SANE_MSGID 0,
+	__USER_AGENT_MS_GENERIC 0'
+Return-Path: gabriella.pesci@apat.it
+X-OriginalArrivalTime: 29 Sep 2008 11:27:17.0563 (UTC)
+	FILETIME=[545380B0:01C92226]
+X-Evolution-Source: pop://edg%5ccorvi%5cmarco.corvi@pop3.elsagdatamat.com/
+Content-Transfer-Encoding: 8bit
+
+In merito alla sua richiesta, la informo che le sarà inviata una lettera 
+all'indirizzo da lei fornito, in cui si comunica il nulla osta alla 
+riproduzione dei fogli geologici alla scala 1:100.000.
+
+Cordiali saluti.
+
+Gabriella Pesci
+
+
+
+
+
+----- Original Message ----- 
+From: "marco corvi" <marco.corvi@elsagdatamat.com>
+To: "Pesci Gabriella" <gabriella.pesci@apat.it>
+Sent: Monday, September 29, 2008 2:40 PM
+Subject: Re: Autorizzazione alla riproduzione
+
+
+> On Mon, 2008-09-29 at 12:15 +0200, Pesci Gabriella wrote:
+>> Caro Marco,
+>> l'URP mi ha inoltrato la sua richiesta per il consenso alla
+>> riproduzione di alcuni fogli geologici.
+>> Dato che la richiesta necessita di una risposta ufficiale, quindi
+>> protocollata ecc. ecc., avrei bisogno del suo indirizzo per poterle
+>> inviare la lettera in formato cartaceo.
+>> Resto in attesa.
+>> Grazie
+>> Gabriella
+>
+> la ringrazio,
+>
+> il mio indirizzo di casa e`
+>
+> ------------------------
+> marco corvi
+> via borgo antico 7
+> 16036 recco (ge)
+> ------------------------
+>
+> marco corvi
+> 
+
